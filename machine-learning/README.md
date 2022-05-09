@@ -1,0 +1,4 @@
+- add stanford deeplearning for nlp course work
+- add ryerson graph neural network assignment
+- add udacity project
+- add stanford ai principles and techniques course work
