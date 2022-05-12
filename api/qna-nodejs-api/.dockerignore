@@ -1,0 +1,7 @@
+.dockerignore
+.git
+.gitignore
+*~
+package-lock.json
+*.md*
+*.sh
